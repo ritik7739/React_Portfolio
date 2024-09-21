@@ -1,4 +1,4 @@
-import ritik_singh_dp from '../assets/ritik_singh_dp.jpg';
+import ritik_singh_dp from '../public/ritik_singh_dp.jpg';
 import { ReactTyped } from 'react-typed';
 import { FaEye, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { Bio } from '../data/Bio';
