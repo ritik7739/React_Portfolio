@@ -1,5 +1,5 @@
 
-const Zerodha='/Zerodha.png'
+const Zerodha='/zerodha.png'
 const wanderlust ='/wanderlust.png'
 const shop_it = '/shop_it.png'
 const Dream_Music='/dream_music.png'
