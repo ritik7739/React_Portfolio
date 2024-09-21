@@ -3,6 +3,7 @@ const Zerodha='/zerodha.png'
 const wanderlust ='/wanderlust.png'
 const shop_it = '/shop_it.png'
 const Dream_Music='/dream_music.png'
+const Weather_Forecasting_app='/screenshot.png'
 
 
 export const projects = [
@@ -41,5 +42,14 @@ export const projects = [
         desc: 'Dream Music is a sleek and responsive music player interface built using React.js and Material-UI. It features a clean design inspired by popular music streaming platforms, allowing users to explore, play, and manage their favorite tracks with ease.',
         live: 'https://dream-music-delta.vercel.app/',
         github: 'https://github.com/ritik7739/Dream_Music',
-    }
+    },
+    {
+        id: 4,
+        img: Weather_Forecasting_app,
+        skills: ["ReactJS", "Tailwind", "Material UI","Redux Toolkit","Api Integration"],
+        title: 'Weather Forecasting App',
+        desc: 'A React-based Weather Forecast App that allows users to view the current weather and a 5-day forecast for any city. The app also includes features like temperature unit conversion (Celsius/Fahrenheit) and a custom-built city search dropdown.',
+        live: 'https://weather-app-by-ritik-singh.vercel.app/',
+        github: 'https://github.com/ritik7739/weather_app',
+    },
 ]
