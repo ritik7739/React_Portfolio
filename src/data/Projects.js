@@ -1,8 +1,8 @@
 
-import Zerodha from '../public/Zerodha.png'
-import wanderlust from '../public/wanderlust.png'
-import shop_it from '../public/shop_it.png'
-import Dream_Music from '../public/dream_music.png'
+const Zerodha='/Zerodha.png'
+const wanderlust ='/wanderlust.png'
+const shop_it = '/shop_it.png'
+const Dream_Music='/dream_music.png'
 
 
 export const projects = [
