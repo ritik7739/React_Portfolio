@@ -1,4 +1,4 @@
-const ritik_singh_dp ='/ritik_singh_dp.jpg';
+const ritik_singh_dp ='/ritik_singh_dp.png';
 import { ReactTyped } from 'react-typed';
 import { FaEye, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { Bio } from '../data/Bio';
@@ -54,7 +54,7 @@ function About() {
         <p className='lg:text-md text-sm text-gray-300'>{Bio.description}</p>
         <div className='flex flex-wrap gap-4 mt-4'>
           <button className={btnStyle}>
-            <a className={linkStyle} href={'https://drive.google.com/file/d/1Zv7JMdOHlyj6p0A_oyZ1uU-pH_NKiAM1/view?usp=drivesdk'} target="_blank" rel="noopener noreferrer">
+            <a className={linkStyle} href={'https://drive.google.com/file/d/14XxZo2FDE1OJK4HxzzbOdB3YChDneAzD/view?usp=sharing'} target="_blank" rel="noopener noreferrer">
               <FaEye className='mr-2'/> View Resume
             </a>
           </button>
